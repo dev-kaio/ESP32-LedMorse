@@ -39,4 +39,4 @@ Este projeto converte texto em código Morse e transmite a mensagem por meio de 
    git clone https://github.com/dev-kaio/ESP32-LedMorse.git
    cd ESP32-LedMorse
 
-**Obrigado por visitar o projeto! 🚀**
+##Obrigado por visitar o projeto! 🚀
