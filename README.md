@@ -14,7 +14,6 @@ Este projeto converte texto em código Morse e transmite a mensagem por meio de 
 
 - **Conversão de Texto para Código Morse**: Insira qualquer texto e o sistema o converterá automaticamente para código Morse.
 - **Transmissão Visual**: O LED pisca de acordo com o código Morse gerado.
-- **Configuração Simples**: Fácil de configurar e utilizar, com código aberto e bem documentado.
 
 ---
 
@@ -39,3 +38,5 @@ Este projeto converte texto em código Morse e transmite a mensagem por meio de 
    ```bash
    git clone https://github.com/dev-kaio/ESP32-LedMorse.git
    cd ESP32-LedMorse
+
+**Obrigado por visitar o projeto! 🚀**
